@@ -1,16 +1,24 @@
 # 🚦 Sistema de Estacionamento - DesafioFundamentos 🅿️🚗✨
 
+
+---
 ## ❤️ Linguagens e Frameworks
+
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
+---
 
 ## 💡 Tipo de Aplicação
 
+
 ![Console App](https://img.shields.io/badge/Console_App-FF4500?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+---
+
 ## ✨ Status do Projeto
+
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-1E90FF?style=for-the-badge)
 ![Versão](https://img.shields.io/badge/Versão-1.0.0-20B2AA?style=for-the-badge)
