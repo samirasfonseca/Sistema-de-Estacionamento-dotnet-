@@ -1,0 +1,54 @@
+# 🅿️ Sistema de Estacionamento - DesafioFundamentos
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Console App](https://img.shields.io/badge/Console_App-FF6C37?style=for-the-badge)
+
+---
+
+## 🚗 Sobre o Projeto
+
+Este é um **sistema de estacionamento simples** feito em **C#**, com **menu interativo no console**, que permite:
+
+- 🟢 Cadastrar veículos
+- 🔴 Remover veículos e calcular o preço de acordo com o tempo estacionado
+- 📋 Listar todos os veículos estacionados
+
+O projeto foi criado como parte de um **desafio de fundamentos em C#** e serve para treinar **manipulação de listas, loops, condicionais e entrada/saída no console**.
+
+---
+
+## ⚡ Funcionalidades
+
+1. **Cadastrar veículo**  
+   - O usuário informa a placa do veículo e ele é adicionado à lista de veículos estacionados.  
+
+2. **Remover veículo**  
+   - O usuário informa a placa e o tempo estacionado, o sistema calcula o valor total e remove o veículo.  
+
+3. **Listar veículos**  
+   - Exibe todos os veículos atualmente estacionados.  
+
+4. **Encerrar**  
+   - Encerra o programa com uma mensagem de despedida.  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **C#** 🟦
+- **.NET 9.0** 🔶
+- **Console Application** 🖥️
+
+---
+## 📸 Screenshots
+Digite o preço inicial: 5
+Digite o preço por hora: 2
+
+### Menu:
+1 - Cadastrar veículo
+2 - Remover veículo
+3 - Listar veículos
+4 - Encerrar
+
+
