@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\bin\Debug\net9.0\desafio-dotnet.exe
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\bin\Debug\net9.0\desafio-dotnet.deps.json
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\bin\Debug\net9.0\desafio-dotnet.runtimeconfig.json
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\bin\Debug\net9.0\desafio-dotnet.dll
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\bin\Debug\net9.0\desafio-dotnet.pdb
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\obj\Debug\net9.0\desafio-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\obj\Debug\net9.0\desafio-dotnet.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\obj\Debug\net9.0\desafio-dotnet.AssemblyInfo.cs
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\obj\Debug\net9.0\desafio-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\obj\Debug\net9.0\desafio-dotnet.dll
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\obj\Debug\net9.0\refint\desafio-dotnet.dll
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\obj\Debug\net9.0\desafio-dotnet.pdb
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\obj\Debug\net9.0\desafio-dotnet.genruntimeconfig.cache
+C:\Users\Acer\Desktop\PROJETOS\desafio-dotnet\desafio-dotnet\obj\Debug\net9.0\ref\desafio-dotnet.dll
