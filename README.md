@@ -42,8 +42,15 @@ O projeto foi criado como parte de um **desafio de fundamentos em C#** e serve p
 
 ---
 ## 📸 Screenshots
+
 Digite o preço inicial: 5
+
+![Estacionamento](assets/estacionamento.png)
+
 Digite o preço por hora: 2
+
+![Estacionamento](assets/estacionamento.png)
+
 
 ### Menu:
 1 - Cadastrar veículo
