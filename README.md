@@ -54,5 +54,6 @@ Digite o preço por hora: 2
 2 - Remover veículo
 3 - Listar veículos
 4 - Encerrar
+![Estacionamento](Sem%20título2.png)
 
 
