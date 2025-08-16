@@ -1,8 +1,20 @@
-# 🅿️ Sistema de Estacionamento - DesafioFundamentos
+# 🚦 Sistema de Estacionamento - DesafioFundamentos 🅿️🚗✨
+
+## ❤️ Linguagens e Frameworks
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Console App](https://img.shields.io/badge/Console_App-FF6C37?style=for-the-badge)
+
+
+## 💡 Tipo de Aplicação
+
+![Console App](https://img.shields.io/badge/Console_App-FF4500?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+## ✨ Status do Projeto
+
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-1E90FF?style=for-the-badge)
+![Versão](https://img.shields.io/badge/Versão-1.0.0-20B2AA?style=for-the-badge)
+
 
 ---
 
@@ -43,17 +55,19 @@ O projeto foi criado como parte de um **desafio de fundamentos em C#** e serve p
 ---
 ## 📸 Screenshots
 
-Digite o preço inicial: 5
-![Estacionamento](Sem%20título.png)
-Digite o preço por hora: 2
-![Estacionamento](Sem%20título1.png)
+### Entrada de valores
+**Digite o preço inicial:** **`5`** 
+![Tela de preço inicial](Sem%20título.png)  
 
+**Digite o preço por hora:** **`2`**  
+![Tela de preço por hora](Sem%20título1.png)  
 
-### Menu:
-1 - Cadastrar veículo
-2 - Remover veículo
-3 - Listar veículos
-4 - Encerrar
-![Estacionamento](Sem%20título2.png)
+### Menu principal
+1 - Cadastrar veículo  
+2 - Remover veículo  
+3 - Listar veículos  
+4 - Encerrar  
+![Tela do menu](Sem%20título2.png)
+
 
 
