@@ -1,19 +1,5 @@
-# 🚦 Sistema de Estacionamento - DesafioFundamentos 🅿️🚗✨
+# 🚦 Sistema de Estacionamento 🅿️🚗✨
 
-
----
-## ❤️ Linguagens e Frameworks
-
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
----
-
-## 💡 Tipo de Aplicação
-
-
-![Console App](https://img.shields.io/badge/Console_App-FF4500?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
@@ -56,18 +42,30 @@ O projeto foi criado como parte de um **desafio de fundamentos em C#** e serve p
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **C#** 🟦
-- **.NET 9.0** 🔶
-- **Console Application** 🖥️
+- **C#** 🟦 <br><br>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+- **.NET 9.0** 🔶 <br><br>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+- **Console Application** 🖥️ <br><br>
+![Console App](https://img.shields.io/badge/Console_App-FF4500?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+
 
 ---
 ## 📸 Screenshots
 
 ### Entrada de valores
 **Digite o preço inicial:** **`5`** 
+
 ![Tela de preço inicial](Sem%20título.png)  
 
+
+
+
 **Digite o preço por hora:** **`2`**  
+
 ![Tela de preço por hora](Sem%20título1.png)  
 
 ### Menu principal
@@ -77,5 +75,10 @@ O projeto foi criado como parte de um **desafio de fundamentos em C#** e serve p
 4 - Encerrar  
 ![Tela do menu](Sem%20título2.png)
 
+
+# 💡 Contato
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samira%20Fonseca-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samirasfonseca/)
 
 
